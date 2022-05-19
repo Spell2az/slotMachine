@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifiedSlotMachine", "SimplifiedSlotMachine\SimplifiedSlotMachine.csproj", "{7361BB18-7180-4D67-82C2-7288B092AB65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{0898220F-0125-415C-9CA4-C26EEEEC1B17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7361BB18-7180-4D67-82C2-7288B092AB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7361BB18-7180-4D67-82C2-7288B092AB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7361BB18-7180-4D67-82C2-7288B092AB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7361BB18-7180-4D67-82C2-7288B092AB65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0898220F-0125-415C-9CA4-C26EEEEC1B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0898220F-0125-415C-9CA4-C26EEEEC1B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0898220F-0125-415C-9CA4-C26EEEEC1B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0898220F-0125-415C-9CA4-C26EEEEC1B17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

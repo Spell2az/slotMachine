@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5cef2cab_002D1395_002D4582_002Db740_002Daed436a51664/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ProbabilityBoundsAreGeneratedCorrectly #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0898220F-0125-415C-9CA4-C26EEEEC1B17::net6.0::Tests.UnitTest1.ProbabilityBoundsAreGeneratedCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0898220F-0125-415C-9CA4-C26EEEEC1B17::net6.0::Tests.UnitTest1.CheckProbabilityDistribution&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b48f1f7a_002D24c8_002D4f1d_002D8dfd_002D713e271c3675/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ProbabilityBoundsAreGeneratedCorrectly #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0898220F-0125-415C-9CA4-C26EEEEC1B17::net6.0::Tests.UnitTest1.ProbabilityBoundsAreGeneratedCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0898220F-0125-415C-9CA4-C26EEEEC1B17::net6.0::Tests.UnitTest1.CheckProbabilityDistribution&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bcde77e8_002Db15b_002D4ebb_002Db39a_002Dc4960450cd24/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ProbabilityBoundsAreGeneratedCorrectly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0898220F-0125-415C-9CA4-C26EEEEC1B17::net6.0::Tests.UnitTest1.ProbabilityBoundsAreGeneratedCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0898220F-0125-415C-9CA4-C26EEEEC1B17::net6.0::Tests.UnitTest1.CheckProbabilityDistribution&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c9a8e81c_002D2a81_002D4c2c_002D9dbf_002D79c75d6d5a51/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ProbabilityBoundsAreGeneratedCorrectly #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0898220F-0125-415C-9CA4-C26EEEEC1B17::net6.0::Tests.UnitTest1.ProbabilityBoundsAreGeneratedCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0898220F-0125-415C-9CA4-C26EEEEC1B17::net6.0::Tests.UnitTest1.CheckProbabilityDistribution&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
